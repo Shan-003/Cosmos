@@ -1,4 +1,3 @@
-# This project is for 
 # COSMOS 2023 Cluster 8 IoT Dorm Door Decoration
 
 In this project we had the main objectives:  
